@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://smilelab.uestc.edu.cn/members/bairan/index.html</loc>
+    <lastmod>2016-11-09T11:58:27.983Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smilelab.uestc.edu.cn/index.html</loc>
+    <lastmod>2016-11-09T11:56:34.499Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smilelab.uestc.edu.cn/news/index.html</loc>
+    <lastmod>2016-11-09T11:52:15.109Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://smilelab.uestc.edu.cn/members/index.html</loc>
     <lastmod>2016-11-04T08:59:26.278Z</lastmod>
   </url>
@@ -14,16 +29,6 @@
   <url>
     <loc>http://smilelab.uestc.edu.cn/en/news/index.html</loc>
     <lastmod>2016-11-04T07:12:12.913Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/index.html</loc>
-    <lastmod>2016-11-04T07:10:50.356Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/news/index.html</loc>
-    <lastmod>2016-11-04T07:10:07.827Z</lastmod>
   </url>
   
   <url>
@@ -234,11 +239,6 @@
   <url>
     <loc>http://smilelab.uestc.edu.cn/members/emily/index.html</loc>
     <lastmod>2015-12-28T09:32:09.110Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/members/bairan/index.html</loc>
-    <lastmod>2015-12-28T09:31:44.102Z</lastmod>
   </url>
   
   <url>
