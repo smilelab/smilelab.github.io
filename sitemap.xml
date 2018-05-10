@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/zhaopeng/%E8%B5%B5%E9%B9%8FE.html</loc>
-    <lastmod>2018-05-10T04:43:24.000Z</lastmod>
+    <loc>http://smilelab.uestc.edu.cn/news/uestcaic/index.html</loc>
+    <lastmod>2018-05-10T08:40:13.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/yejinmian/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/wenquan/index.html</loc>
     <lastmod>2018-05-10T04:43:24.000Z</lastmod>
   </url>
   
@@ -38,6 +38,11 @@
   
   <url>
     <loc>http://smilelab.uestc.edu.cn/en/members/zhaopeng/index.html</loc>
+    <lastmod>2018-05-10T04:43:24.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smilelab.uestc.edu.cn/en/members/zhaopeng/%E8%B5%B5%E9%B9%8FE.html</loc>
     <lastmod>2018-05-10T04:43:24.000Z</lastmod>
   </url>
   
@@ -97,17 +102,17 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/wenquan/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/yejinmian/index.html</loc>
     <lastmod>2018-05-10T04:43:24.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/oujie/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/liuao/index.html</loc>
     <lastmod>2018-05-10T04:43:23.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/liuao/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/tangshujiong/index.html</loc>
     <lastmod>2018-05-10T04:43:23.000Z</lastmod>
   </url>
   
@@ -147,7 +152,7 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/tangshujiong/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/wangmaolin/index.html</loc>
     <lastmod>2018-05-10T04:43:23.000Z</lastmod>
   </url>
   
@@ -192,13 +197,8 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/wangmaolin/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/oujie/index.html</loc>
     <lastmod>2018-05-10T04:43:23.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/chendi/index.html</loc>
-    <lastmod>2018-05-10T04:43:22.000Z</lastmod>
   </url>
   
   <url>
@@ -252,11 +252,6 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/news/uestcaic/index.html</loc>
-    <lastmod>2018-05-10T04:43:22.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://smilelab.uestc.edu.cn/en/members/jiangtao/index.html</loc>
     <lastmod>2018-05-10T04:43:22.000Z</lastmod>
   </url>
@@ -288,6 +283,11 @@
   
   <url>
     <loc>http://smilelab.uestc.edu.cn/members/zhouxin/index.html</loc>
+    <lastmod>2018-05-10T04:43:22.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smilelab.uestc.edu.cn/en/members/chendi/index.html</loc>
     <lastmod>2018-05-10T04:43:22.000Z</lastmod>
   </url>
   
