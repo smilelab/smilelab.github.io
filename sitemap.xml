@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://smilelab.uestc.edu.cn/en/index.html</loc>
+    <lastmod>2018-07-18T02:10:26.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smilelab.uestc.edu.cn/index.html</loc>
+    <lastmod>2018-07-18T02:10:20.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://smilelab.uestc.edu.cn/en/news/workshop_pricai/index.html</loc>
     <lastmod>2018-06-08T09:04:16.000Z</lastmod>
   </url>
@@ -9,16 +19,6 @@
   <url>
     <loc>http://smilelab.uestc.edu.cn/news/workshop_pricai/index.html</loc>
     <lastmod>2018-06-08T09:04:02.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/en/index.html</loc>
-    <lastmod>2018-06-07T08:26:14.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smilelab.uestc.edu.cn/index.html</loc>
-    <lastmod>2018-06-07T08:16:33.000Z</lastmod>
   </url>
   
   <url>
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/panyu/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/quexiaofan/index.html</loc>
     <lastmod>2018-05-13T05:34:09.000Z</lastmod>
   </url>
   
@@ -167,12 +167,12 @@
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/en/members/quexiaofan/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/members/zhouxin/index.html</loc>
     <lastmod>2018-05-13T05:34:09.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://smilelab.uestc.edu.cn/members/zhouxin/index.html</loc>
+    <loc>http://smilelab.uestc.edu.cn/en/members/panyu/index.html</loc>
     <lastmod>2018-05-13T05:34:09.000Z</lastmod>
   </url>
   
